@@ -1,0 +1,61 @@
+<li>
+        <a href="https://medium.com/@shashcuriosity/the-4r-principle-rest-reflect-refocus-reset-c51ab3bf6d0a" class="card">
+          <img src="img/4r.png" class="card__image" alt="" />
+          <div class="card__overlay">        
+            <div class="card__header">
+              <div class="card__header-text">
+                <h3 class="card__title">The 4R Principle </h3>
+                <span class="card__status">April 2023</span>
+              </div>
+            </div>
+            <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+          </div>
+        </a>
+      </li>
+      
+      <li>
+        <a href="https://shashankkumar.hashnode.dev/simplifying-data" class="card">
+          <img src="img/data.png" class="card__image" alt="" />
+          <div class="card__overlay">        
+            <div class="card__header">
+              <div class="card__header-text">
+                <h3 class="card__title">Simplifying Data </h3>
+                <span class="card__status">Jan 2023</span>
+              </div>
+            </div>
+            <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+          </div>
+        </a>
+      </li>
+
+      <li>
+        <a href="https://shashankkumar.hashnode.dev/simplifying-css-flexbox-part-1" class="card">
+          <img src="img/flexbox1.png" class="card__image" alt="" />
+          <div class="card__overlay">        
+            <div class="card__header">
+              <div class="card__header-text">
+                <h3 class="card__title">Simplifying CSS: Flexbox 1 </h3>
+                <span class="card__status">April 2023</span>
+              </div>
+            </div>
+            <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+          </div>
+        </a>
+      </li>
+
+      <li>
+        <a href="https://shashankkumar.hashnode.dev/simplifying-css-flexbox-part-2" class="card">
+          <img src="img/flexbox2.png" class="card__image" alt="" />
+          <div class="card__overlay">        
+            <div class="card__header">
+              <div class="card__header-text">
+                <h3 class="card__title">Simplifying CSS: Flexbox 2 </h3>
+                <span class="card__status">May 2023</span>
+              </div>
+            </div>
+            <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+          </div>
+        </a>
+      </li>
+     
+
